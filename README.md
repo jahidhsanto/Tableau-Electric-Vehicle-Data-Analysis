@@ -28,6 +28,11 @@ You can interact with the dashboard here:
 3. Load the dataset `Electric_Vehicle_Population_Data.csv` into Tableau
 4. Explore or extend the dashboard for your use case
 
+## 🧾 Dataset Source
+
+Data sourced from:  
+[Washington State Government – Electric Vehicle Population](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
 ## 🙋‍♂️ About Me
 
 **Md. Jahid Hassan**  
